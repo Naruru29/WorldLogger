@@ -9,7 +9,7 @@ export class access {
     };
 
     async list(busy){
-        player.show = true;
+        this.player.show = true;
         const form = new UI.ActionFormData();
         const array = await DyProp.get("access");
 
