@@ -1,7 +1,6 @@
 # WorldLogger
 
-<img src="https://img.shields.io/github/downloads/Naruru29/WorldLogger/total?style=for-the-badge&color=dark_green">
- <img src="https://img.shields.io/github/downloads/Naruru29/WorldLogger/latest/total?style=for-the-badge&color=green"> <img src="https://img.shields.io/github/v/release/Naruru29/WorldLogger?style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/downloads/Naruru29/WorldLogger/total?style=for-the-badge&color=dark_green"> <img src="https://img.shields.io/github/downloads/Naruru29/WorldLogger/latest/total?style=for-the-badge&color=green"> <img src="https://img.shields.io/github/v/release/Naruru29/WorldLogger?style=for-the-badge&color=blue">
 
 
 ワールド内で起こったイベントを保存し、ログとして残してくれるアドオン
