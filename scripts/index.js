@@ -1,3 +1,4 @@
+// test
 import { world, system } from "@minecraft/server";
 import * as DyProp from "./lib/DyProp";
 import * as date from "./lib/date";
