@@ -14,7 +14,7 @@ export class entity {
         const array = await DyProp.get("entity");
 
         form.title("エンティティログ")
-        .body(`${until.setLang("Up to 900 past entries can be displayed on the form")}`)
+        .body("フォーム上では、最大過去900件まで表示可能です")
 
         let i = 0;
         const newlogs = until.getNewLog(this.player, array).reverse();
