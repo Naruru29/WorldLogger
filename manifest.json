@@ -2,10 +2,10 @@
     "format_version": 2,
     "header": {
         "description": "ワールド内で起こったイベントを保存し、ログとして残してくれます\n製作:なるる\nYouTube:なるる-Naruru",
-        "name": "WorldLogger ver1.0.2",
+        "name": "WorldLogger ver1.1.0",
         "uuid": "a9e139bc-325e-4d60-8e5b-66a44a19f17a",
-        "version": [1, 0, 2],
-        "min_engine_version": [1, 20, 60]
+        "version": [1, 1, 0],
+        "min_engine_version": [1, 20, 70]
     },
     "modules": [
         {
@@ -13,14 +13,14 @@
             "type": "script",
             "language": "javascript",
             "uuid": "502a5095-9378-4d5d-8490-682a2469812a",
-            "version": [1, 0, 2],
+            "version": [1, 1, 0],
             "entry": "scripts/index.js"
         }
     ],
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "1.9.0-beta"
+            "version": "1.10.0-beta"
         },
         {
             "module_name": "@minecraft/server-ui",
